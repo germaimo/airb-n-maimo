@@ -14,7 +14,7 @@ const Card = ({ hotel }) => {
         </div>
         <div className="card-content">
           <div className="media">
-            <div className="media-left"></div>
+            {/* <div className="media-left"></div> */}
             <div className="media-content">
               <p className="title is-4">{name}</p>
               <p className="subtitle is-6">{country}</p>
